@@ -1,16 +1,45 @@
-## Hi there 👋
+## 👋 Hey, I’m Jeryn
 
-<!--
-**jeryn-n/jeryn-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science & Media Studies @ UC Irvine  
+🚀 Builder at the intersection of data, design, and creative systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 What I Do
+💻 Full-stack development (UI/UX → backend → security)  
+📊 Data analysis & applied problem solving  
+📈 B2B marketing + consulting  
+🎬 Creative tech — video, audio, and digital media  
+
+---
+
+## 🧩 Current Work
+🧠 Co-Founder & Technical Director @ Creative Net  
+→ Built and scaled a creator platform at UCI (full-stack)  
+
+💼 Consulting + Marketing Experience  
+→ Led client projects, contributed to business growth  
+→ Worked with high-value datasets/assets ($500k+)  
+
+---
+
+## 🛠 Tech
+Python • C++ • SQL • R  
+Web Dev • UI/UX • Systems Design  
+
+---
+
+## 🎯 Focus
+Building scalable platforms that merge **data + creativity**  
+Turning ideas into real, usable systems  
+
+---
+
+## ⚡ Highlights
+📱 40M+ views across media projects  
+🎧 Award-winning sound designer  
+🎼 Former All-State principal clarinetist  
+
+---
+
+📬 Open to internships, collaboration, and building cool things
