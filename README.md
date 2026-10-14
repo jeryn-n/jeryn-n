@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Jeryn
 
-🎓 Data Science & Media Studies @ UC Irvine  
+🎓 Information & Media Studies @ UC Irvine  
 🚀 Builder at the intersection of data, design, and creative systems  
 
 ---
